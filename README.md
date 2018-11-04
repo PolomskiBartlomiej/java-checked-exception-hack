@@ -1,0 +1,1 @@
+# java-checked-exception-hack
