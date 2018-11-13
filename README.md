@@ -13,3 +13,9 @@ static <T extends Throwable> void toUnchecked(Exception exception) throws T {
 }
     
 ```
+# usage
+This feature is usful in Java Funtional API because it is not support the checked Exception
+
+Example:
+https://github.com/pivovarit/throwing-function
+
